@@ -16,8 +16,11 @@
       
       <guid>https://yusukekyokawa.github.io/page/about/</guid>
       <description>所属 東京電機大学大学院M1 データ科学・機械学習研究室
-研究内容 GANを利用した工業製品の異常検知 機械学習による型紙画像分類の自動化 技術について 言語  Python(4年)  主にOpenCVなどの画像処理プログラミングやGANやCNNなどのDeepLearningの実装経験．研究では主にPyTorchを利用   SQL C++ ruby  OS&amp;amp;ミドルウェア  Docker(2年)  GPUを使用した機械学習サイクルの構築ができます   Linux  フレームワーク&amp;amp;ライブラリ Pythonがメイン
-Python  PyTorch Keras Flask Django scikit-learn  ruby  Ruby on Rails  チュートリアルをこなした程度です.    興味のある研究&amp;amp;技術  AWS, GCPなどのクラウド  機械学習システムを開発することを普段行っていて，それを広くエンドユーザに利用してもらう方法としてクラウド技術を利用したいと考えています   フロントエンドの言語  HTML, CSSは    コンテスト参加実績  PRMUアルゴリズムコンテスト2018　最優秀賞 PRMUアルゴリムコンテスト2019 7位 Kaggleくずし字コンテスト  my history T</description>
+研究内容 専門  機械学習 パターン認識 コンピュータビジョン  GANを利用した工業製品の異常検知 ベトナムハノイにある金属加工を行う工場との共同研究
+工場での外観検査の自動化を目的に，発生確率の低い異常部品を教師データとして利用しないAnoGANを利用し，正常データのみから異常検知システムを構築
+発表歴  MIRU2019 PS2-27: http://cvim.ipsj.or.jp/MIRU2019/index.php?id=day3  機械学習による型紙画像分類の自動化 日本の重要無形文化財である伊勢型紙のデジタルアーカイブ化に伴う人手によるラベル付作業の自動化を目的とした研究
+技術について 言語  Python(4年)  主にOpenCVなどの画像処理プログラミングやGANやCNNなどのDeepLearningの実装経験．研究では主にPyTorchを利用   SQL C++ ruby  OS&amp;amp;ミドルウェア  Docker(2年)  GPUを使用した機械学習基盤の構築ができます   Linux  フレームワーク&amp;amp;ライブラリ Pythonがメイン
+Python  PyTorch Keras Flask Django scikit-learn  ruby  Ruby on Rails  チュートリアルをこなした程度です.    興味のある研究&amp;amp;技術  AWS, GCPなどのクラウド  機械学習システムを開発することを普段行っていて，それを広くエンドユーザに利用してもらう方法としてクラウド技術を利用したいと考えています   フロントエンドの言語(HTML, CSS, javascriptなど．)  バックエンドの機械学習システムからユーザの目に触れるレイヤーまで一気通貫で開発ができるようなエンジニアになりたいです．    コンテスト参加実績  PRMUアルゴリズムコンテスト2018　最優秀賞  コンテスト公式サイト: https://sites.</description>
     </item>
     
   </channel>
