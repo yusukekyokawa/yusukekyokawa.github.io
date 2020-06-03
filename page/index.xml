@@ -10,12 +10,14 @@
     
     
     <item>
-      <title>自己紹介</title>
+      <title>ABOUT ME</title>
       <link>https://yusukekyokawa.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://yusukekyokawa.github.io/page/about/</guid>
-      <description>専門  画像認識  コンテスト参加実績  PRMUアルゴリズムコンテスト2018　最優秀賞 PRMUアルゴリムコンテスト2019 7位 Kaggleくずし字コンテスト  my history T</description>
+      <description>所属 東京電機大学大学院M1 データ科学・機械学習研究室
+研究内容 GANを利用した工業製品の異常検知 機械学習を用いた型紙画像の自動分類 技術について 言語  Python(4年)  主にOpenCVなどの画像処理プログラミングやGANやCNNなどのDeepLearningの実装経験．研究では主にPyTorchを利用   SQL C++ ruby  OS&amp;amp;ミドルウェア  Docker(2年)  GPUを使用した機械学習サイクルの構築ができます   Linux  フレームワーク&amp;amp;ライブラリ Pythonがメイン
+Python  PyTorch Keras Flask Django scikit-learn  ruby  Ruby on Rails  チュートリアルをこなした程度です.    興味のある研究&amp;amp;技術  AWS, GCPなどのクラウド  機械学習システムを開発することを普段行っていて，それを広くエンドユーザに利用してもらう方法としてクラウド技術を利用したいと考えています   フロントエンドの言語  HTML, CSSは    コンテスト参加実績  PRMUアルゴリズムコンテスト2018　最優秀賞 PRMUアルゴリムコンテスト2019 7位 Kaggleくずし字コンテスト  my history T</description>
     </item>
     
   </channel>
