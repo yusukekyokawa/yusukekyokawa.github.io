@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Site</title>
-    <link>https://yusukekyokawa.github.io/</link>
-    <description>Recent content on My Site</description>
+    <title>papers on My Site</title>
+    <link>https://yusukekyokawa.github.io/tags/papers/</link>
+    <description>Recent content in papers on My Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 03 Jun 2020 19:20:13 +0900</lastBuildDate>
     
-	<atom:link href="https://yusukekyokawa.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yusukekyokawa.github.io/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       
       <guid>https://yusukekyokawa.github.io/post/202006-%E8%AB%96%E6%96%87%E8%AA%AD%E3%81%BF/</guid>
       <description>画像認識関連の論文読み    Title Author 発行日 URL メモ     Visualizing and Understanding Convolutional Networks   https://arxiv.org/pdf/1311.2901.pdf    A Survey of Convolutional Neural Networks: Analysis, Applications, and Prospects   https://arxiv.org/pdf/2004.02806.pdf    Deep Residual Learning for Image Recognition   https://arxiv.org/pdf/1512.03385.pdf    ImageNet: A Large-Scale Hierarchical Image Database   http://www.image-net.org/papers/imagenet_cvpr09.pdf    VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION   https://arxiv.</description>
-    </item>
-    
-    <item>
-      <title>自己紹介</title>
-      <link>https://yusukekyokawa.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://yusukekyokawa.github.io/page/about/</guid>
-      <description>専門  画像認識  コンテスト参加実績  PRMUアルゴリズムコンテスト2018　最優秀賞 PRMUアルゴリムコンテスト2019 7位 Kaggleくずし字コンテスト  my history T</description>
     </item>
     
   </channel>
