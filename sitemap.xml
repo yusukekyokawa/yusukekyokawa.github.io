@@ -104,15 +104,15 @@
   </url>
   
   <url>
-    <loc>https://yusukekyokawa.github.io/page/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://yusukekyokawa.github.io/categories/</loc>
   </url>
   
   <url>
     <loc>https://yusukekyokawa.github.io/page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yusukekyokawa.github.io/page/about/</loc>
   </url>
   
 </urlset>
